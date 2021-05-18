@@ -11,8 +11,15 @@
   margin: 30px;
 }
 
-/* #menulist{
-list-style-type: none;
-display:grid;
+.toplist a{
+  margin: 20px;
+}
 
-} */
+.leftnav ul{
+  list-style-type: none;
+}
+.leftnav li{
+ font-size: 25px;
+ 
+  margin: 30px;
+}
