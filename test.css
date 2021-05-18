@@ -1,0 +1,18 @@
+.mainBanner {
+  font-size: 50px;
+  font-weight: bold;
+  padding-right: 50px;
+  padding-left: 30px;
+}
+
+.toplist {
+  display: inline;
+  font-size: 25px;
+  margin: 30px;
+}
+
+/* #menulist{
+list-style-type: none;
+display:grid;
+
+} */
