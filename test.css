@@ -17,9 +17,10 @@
 
 .leftnav ul{
   list-style-type: none;
+  margin-top: 50px;
 }
 .leftnav li{
- font-size: 25px;
- 
+ font-size: 20px;
+
   margin: 30px;
 }
